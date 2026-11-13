@@ -1,0 +1,21 @@
+# Obsidian machine-specific state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Temporary and local-only files
+.trash/
+tmp/
+*.tmp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local raw materials and generated outputs
+_原始资料/
+*.pdf
+*.epub
+*.mp4
+*.mov
